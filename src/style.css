@@ -1,1 +1,5 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+  background-color: aqua;
+  width: 800px;
+  margin: 0 auto;
+}
